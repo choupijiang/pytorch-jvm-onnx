@@ -39,4 +39,4 @@ torch==1.6.0
 tqdm==4.54.1
 typing-extensions==3.7.4.3
 urllib3==1.26.2
-Werkzeug==1.0.1
+Werkzeug==3.0.1
