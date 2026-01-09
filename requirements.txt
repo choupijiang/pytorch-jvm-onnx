@@ -35,8 +35,8 @@ tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
 test-tube==0.7.5
 threadpoolctl==2.1.0
-torch==1.6.0
+torch==2.9.0
 tqdm==4.54.1
 typing-extensions==3.7.4.3
-urllib3==1.26.2
-Werkzeug==1.0.1
+urllib3==2.6.3
+Werkzeug==3.1.5
